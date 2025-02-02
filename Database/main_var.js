@@ -1,6 +1,6 @@
 {
     
-    "footer": "*• ᴍᴏᴠɪᴇ ᴠɪꜱᴘᴇʀ ᴍᴜʟᴛɪᴅᴇᴠɪᴄᴇ •*",
+   
     "connectmg": "🎬 *Welcome to MOVIE VISPER!* 🌟
 Your ultimate WhatsApp Movie Bot for downloading, searching, and more! 🚀
 
